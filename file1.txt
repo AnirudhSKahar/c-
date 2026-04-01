@@ -1,0 +1,7 @@
+21. What are the main components of CPU? 
+22. What is datapath? 
+23. What is the role of ALU? 
+24. Which unit controls execution of instructions? 
+25. What is Program Counter? 
+26. What is Instruction Register? 
+27. What is MAR? 
